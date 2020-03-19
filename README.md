@@ -36,7 +36,6 @@ First app working with Express, Handlebars, ORM and first time configurating MyS
 
 Marcia: https://github.com/desertdancer
 
-Here I will be updating some samples of my projects: https://iarcones.github.io/Porfolio/
 
 
 
