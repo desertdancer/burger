@@ -4,7 +4,7 @@
 
 In this project, I am using MySQL, Node, Express, Handlebars and a homemade ORM. It is deployed to Heroku.
 
-Try the app here: https://burgerbootcamp2018.herokuapp.com/
+Try the app here: https://burger-marcia.herokuapp.com/
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ First app working with Express, Handlebars, ORM and first time configurating MyS
 
 Marcia: https://github.com/desertdancer
 
-
+Here I will be updating some samples of my projects: https://iarcones.github.io/Porfolio/
 
 
 
