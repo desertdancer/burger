@@ -26,7 +26,7 @@ Try the app here: https://burger-marcia.herokuapp.com/
 - ORM
 
 ## Screenshots
-![](demo.gif)
+![](Capture.PNG)
 
 ## Comments
 
