@@ -1,3 +1,9 @@
+body{
+background-color: grey;
+background-image: url("https://i.pinimg.com/736x/01/1d/1d/011d1d429a11a56939f6b4c2831f1061.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+}
 li {
   padding: 5px;
   margin: 5px;
@@ -16,4 +22,10 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+.container{
+  background-color: rgba(128, 128, 128, 0.479);
+}
+h1{
+  color:white;
 }
