@@ -9,6 +9,11 @@ li {
   margin: 5px;
   background: #faebd7;
 }
+.jumbotron {
+font-style: italic; 
+
+
+}
 
 .label {
   font-weight: bold;
@@ -27,5 +32,5 @@ li {
   background-color: rgba(128, 128, 128, 0.479);
 }
 h1{
-  color:white;
+  color: red;
 }
